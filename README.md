@@ -115,9 +115,9 @@ Requirements
 
 Authors
 
-Bani Baskara
-Yuzuki Aihara
-github.com/icedeyes12/
+· Bani Baskara
+· Yuzuki Aihara
+· [guthib.com/icedeyes12/](github.com/icedeyes12/)
 
 ---
 
