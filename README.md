@@ -3,9 +3,9 @@
 Minimal multi-provider CLI chat client written in Go.
 
 ## Providers
-- Chutes AI (`cu.key`)
-- OpenRouter (`or.key`)
-- Cerebras (`ce.key`)
+- Chutes AI
+- OpenRouter
+- Cerebras
 
 ## Quick start
 1. Clone the repo.
@@ -38,4 +38,4 @@ Minimal multi-provider CLI chat client written in Go.
 ## Authors
 Bani Baskara  
 Yuzuki Aihara  
-[github.com/icedeyes12/hkkm-yuzu](https://github.com/icedeyes12/hkkm-yuzu)
+[guthib.com/icedeyes12/](https://github.com/icedeyes12/)
