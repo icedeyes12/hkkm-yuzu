@@ -442,7 +442,7 @@ func (y *YuzuChat) SendMessage(message string, stream bool) string {
 	req.Header.Set("Authorization", "Bearer "+provider.APIKey)
 	req.Header.Set("Content-Type", "application/json")
 	if y.currentProvider == "openrouter" {
-		req.Header.Set("HTTP-Referer", "https://github.com/icedeyes12/hkkm-yuzu")
+		req.Header.Set("HTTP-Referer", "https://github.com/icedeyes12/yuzuchat")
 		req.Header.Set("X-Title", "Yuzu-Prototype")
 	}
 	client := &http.Client{Timeout: 60 * time.Second}
@@ -572,8 +572,8 @@ func main() {
 	colorPrint(Purple, `
 🍊Yuzu Prototype - HKMM Project♨️
 ================================
-Collab bani ganteng with yuzu herself
-https://guthib.com/icedeyes12/hkkm-yuzu
+
+https://guthib.com/icedeyes12/yuzuchat
 
 Tips: Type /? for help, /info for status
 
