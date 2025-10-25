@@ -1,7 +1,6 @@
-
-                // be.go - YuzuChat Multi-Provider AI Client  
-            // ©2025 hkkm project | built with love 💕
-        // guthib.com/icedeyes12
+// be.go - YuzuChat Multi-Provider AI Client  
+// ©2025 hkkm project | built with love 💕
+// guthib.com/icedeyes12
 
 package main
 
@@ -572,8 +571,8 @@ func main() {
 	colorPrint(Purple, `
 🍊Yuzu Prototype - HKMM Project♨️
 ================================
-
-https://guthib.com/icedeyes12/yuzuchat
+Collab bani ganteng with yuzu herself
+https://guthib.com/icedeyes12/
 
 Tips: Type /? for help, /info for status
 
@@ -810,7 +809,7 @@ func main() {
 Yuzu Prototype - HKMM Project
 ================================
 Collab bani ganteng with yuzu herself
-https://guthib.com/icedeyes12/hkkm-yuzu
+https://guthib.com/icedeyes12/
 
 Tips: Type /? for help, /info for status
 
