@@ -38,4 +38,4 @@ Minimal multi-provider CLI chat client written in Go.
 ## Authors
 Bani Baskara  
 Yuzuki Aihara  
-[github.com/icedeyes12/yuzu-companion](https://github.com/icedeyes12/yuzu-companion)
+[github.com/icedeyes12/hkkm-yuzu](https://github.com/icedeyes12/hkkm-yuzu)
