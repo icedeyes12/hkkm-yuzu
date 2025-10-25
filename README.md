@@ -30,6 +30,8 @@ go build -o yuzuchat be.go
 ./yuzuchat
 ```
 
+---
+
 Setup
 
 1. Set Up API Keys
@@ -78,6 +80,7 @@ yuzuchat/
 Usage
 
 Command Purpose
+```
 /key <provider> <key> Store API key
 /removekey <provider> Delete API key
 /provider <name> Switch provider
@@ -93,6 +96,9 @@ Command Purpose
 /info Show status
 /help Show all commands
 /exit or /bye Quit
+```
+
+---
 
 Supported Providers
  
@@ -102,8 +108,8 @@ Supported Providers
 
 Tips
 
-· Edit system.txt directly for multi-line prompts
-· Use /system reload after editing system.txt
+· Edit `system.txt` directly for multi-line prompts
+· Use `/system reload` after editing system.txt
 · API keys are stored in separate files for security
 · Conversation history keeps last 20 messages
 
