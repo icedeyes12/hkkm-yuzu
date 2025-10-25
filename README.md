@@ -96,9 +96,9 @@ Command Purpose
 
 Supported Providers
  
-· OpenRouter 
-· Chutes AI
-· Cerebras 
+- [OpenRouter](https://openrouter.ai/)
+- [Chutes AI](https://chutes.ai/)
+- [Cerebras](https://www.cerebras.ai/)
 
 Tips
 
@@ -109,9 +109,9 @@ Tips
 
 Requirements
 
-· Go 1.16+
-· Internet connection
-· API key from at least one provider
+- Go 1.16+
+- Internet connection
+- API key from at least one provider
 
 Authors
 
