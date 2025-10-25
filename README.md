@@ -81,21 +81,21 @@ Usage
 
 Command Purpose
 
-`/key <provider> <key>` Store API key
-`/removekey <provider>` Delete API key
-`/provider <name>` Switch provider
-`/model <name>` Switch model
-`/system <text …>` Set new system prompt
-`/system` show View current prompt
-`/system reload` Reload from disk
-`/models` List available models
-`/providers` List enabled providers
-`/clear` Clear screen
-`/clearhistory` Wipe chat history
-`/stream` Toggle streaming mode
-`/info` Show status
-`/help` Show all commands
-`/exit` or `/bye` to Quit
+- `/key <provider> <key>` Store API key
+- `/removekey <provider>` Delete API key
+- `/provider <name>` Switch provider
+- `/model <name>` Switch model
+- `/system <text …>` Set new system prompt
+- `/system` show View current prompt
+- `/system reload` Reload from disk
+- `/models` List available models
+- `/providers` List enabled providers
+- `/clear` Clear screen
+- `/clearhistory` Wipe chat history
+- `/stream` Toggle streaming mode
+- `/info` Show status
+- `/help` Show all commands
+- `/exit` or `/bye` to Quit
 
 
 ---
