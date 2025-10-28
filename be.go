@@ -1,6 +1,6 @@
 // be.go - YuzuChat Multi-Provider AI Client  
 // ©2025 hkkm project | built with love 💕
-// github.com/icedeyes12
+// guthib.com/icedeyes12
 
 package main
 
